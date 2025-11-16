@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+python-dotenv
+black
+isort
+langchain-ollama
